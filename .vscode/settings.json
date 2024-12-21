@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./gerador_grafico/gerador_grafico"
+    ]
+}
